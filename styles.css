@@ -1,0 +1,32 @@
+
+body{
+
+    background-color: rgb(171, 171, 171);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+
+}
+
+.title {
+
+    color: blue;
+    background-color: rgb(37, 37, 37);
+    margin-bottom: 70px;
+    margin: auto;
+    padding-top: auto;
+
+}
+
+.corpo {
+
+    color: blueviolet;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+
+.bottom {
+
+    color: red;
+
+}
